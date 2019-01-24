@@ -1,6 +1,7 @@
 /*
 2015-12593
 Programming Assignment 1 - Familiarizing Java Constructs and Structures
+Compiled/Tested using Java 11
 */
 package numbertoword;
 
