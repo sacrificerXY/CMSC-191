@@ -1,5 +1,4 @@
 /*
-Kyle B. Del Campo
 2015-12593
 Programming Assignment 1 - Familiarizing Java Constructs and Structures
 */
