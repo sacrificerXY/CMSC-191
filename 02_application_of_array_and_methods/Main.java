@@ -1,3 +1,9 @@
+/*
+2015-12593
+Programming Assignment 2 - Application of Array and Methods
+Compiled/Tested using Java 11
+*/
+
 package arrays;
 
 public class Main 
