@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DelCampoTestPerson",
+            "request": "launch",
+            "mainClass": "DelCampoTestPerson"
+        }
+    ]
+}
